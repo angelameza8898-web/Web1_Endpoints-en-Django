@@ -1,0 +1,8 @@
+*** CREDENCIALES ***
+
+-- Superusuario --
+Usuario: angelameza
+Contraseña: milena01
+
+-- Repositorio de github --
+URL: https://github.com/angelameza8898-web/Web1_Parcial2.git
